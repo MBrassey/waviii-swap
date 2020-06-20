@@ -1,5 +1,5 @@
 # waviii
-![swap_logo](swap.gif) 
+![swap_logo](src/swap.gif) 
 ERC-20 Ethereum Token Exchange
 
 ─── [Custom Crafted Tokens](https://waviii.io)<br />
