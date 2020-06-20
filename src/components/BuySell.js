@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import BuyForm from './BuyForm'
 import SellForm from './SellForm'
+import swapLogo from '../swap_logo.png'
 
 class BuySell extends Component {
   constructor(props) {
@@ -27,8 +28,7 @@ class BuySell extends Component {
     }
 
     return (
-      <div id="content" className="mt-3">
-
+      <div id="content" className="mt-3"> 
         <div className="d-flex justify-content-between mb-3">
           <button
               className="btn btn-light"
@@ -38,7 +38,7 @@ class BuySell extends Component {
             >
             Buy
           </button>
-          <span className="text-muted">&lt; &nbsp; &gt;</span>
+          <img src={swapLogo} width="150" />
           <button
               className="btn btn-light"
               onClick={(event) => {
@@ -47,7 +47,7 @@ class BuySell extends Component {
             >
             Sell
           </button>
-        </div>
+        </div><br />
 
         <div className="card mb-4" >
 

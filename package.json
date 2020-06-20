@@ -23,6 +23,9 @@
     "dotenv": "^8.2.0",
     "mithril": "^2.0.4",
     "truffle-hdwallet-provider": "^1.0.17",
+    "react-loadingg": "^1.7.2",
+    "reactstrap": "8.4.1",
+    "react-countup": "^4.2.2",
     "web3": "1.0.0-beta.55"
   },
   "scripts": {
