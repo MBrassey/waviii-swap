@@ -73,7 +73,7 @@ class BuyForm extends Component {
           <span className="float-left text-muted">Exchange Rate</span>
           <span className="float-right text-muted">1 ETH = 100 waviii</span>
         </div>
-        <button type="submit" className="btn btn-primary btn-block btn-lg">Buy waviii</button>
+        <button type="submit" className="btn btn-waviii btn-block btn-lg">Buy waviii</button>
       </form>
     );
   }
