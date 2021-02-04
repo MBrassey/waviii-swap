@@ -42,6 +42,9 @@ The waviii-swap react component is [deployed](https://waviii-swap.on.fleek.co/) 
 > No MetaMask Installed
 > [<img src="src/assets/img/noEth.gif">](https://waviii-swap.on.fleek.co/)
 
+> Test
+> [<img src="src/assets/img/Test.gif">](https://waviii-swap.on.fleek.co/)
+
 > Setup
 > [<img src="src/assets/img/Setup.gif">](https://waviii-swap.on.fleek.co/)
 
