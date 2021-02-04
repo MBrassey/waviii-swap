@@ -38,7 +38,7 @@ class BuySell extends Component {
             >
             Buy
           </button>
-          <img src={swapLogo} width="150" />
+          <img src={swapLogo} width="150" alt="waviii-swap logo" />
           <button
               className="btn btn-light"
               onClick={(event) => {
