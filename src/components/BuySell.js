@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import BuyForm from './BuyForm'
 import SellForm from './SellForm'
-import swapLogo from '../swap_logo.png'
+import swapLogo from '../assets/img/swap_logo.png'
 
 class BuySell extends Component {
   constructor(props) {

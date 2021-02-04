@@ -1,4 +1,16 @@
-/* Styles go here */
 .btn-waviii {
-    background-color: #2994cb;
-  }
+  background-color: #2994cb;
+}
+
+.noEth {
+  text-align: center;
+  font-family: "Syncopate", sans-serif;
+  font-weight: 900;
+  font-size: 16px;
+  color: #d0787f;
+  transition: all 0.5s ease-in-out;
+}
+
+.swapLogo {
+  width: 150px;
+}
