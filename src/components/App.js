@@ -309,12 +309,14 @@ class App extends Component {
                   </a>
                 </CardHeader>
                 <CardBody className="all-icons">
-                  <div
-                    className="content mr-auto ml-auto"
-                    style={{ width: "90%" }}
-                  >
-                    {content}
-                  </div>
+                  <FadeIn>
+                    <div
+                      className="content mr-auto ml-auto"
+                      style={{ width: "90%" }}
+                    >
+                      {content}
+                    </div>
+                  </FadeIn>
                 </CardBody>
               </Card>
             </Col>
