@@ -1,8 +1,8 @@
 {
-  "name": "wavSwap",
+  "name": "waviii-swap",
   "version": "0.1.0",
-  "description": "waviii Cryptocurrency Swap",
-  "author": "luc1d@waviii.io",
+  "description": "Web3 Ethereum Token Swap React Component",
+  "author": "Matt Brassey",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
@@ -26,7 +26,8 @@
     "react-loadingg": "^1.7.2",
     "reactstrap": "8.4.1",
     "react-countup": "^4.2.2",
-    "web3": "1.0.0-beta.55"
+    "web3": "1.0.0-beta.55",
+    "react-fade-in": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
